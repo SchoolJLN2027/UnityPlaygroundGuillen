@@ -236,9 +236,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   rigidbody2D: {fileID: 0}
-  speed: 5
+  speed: 7
   directionChangeInterval: 3
-  orientToDirection: 0
+  orientToDirection: 1
   lookAxis: 0
   waypoints:
-  - {x: 23.36, y: 11.55}
+  - {x: -23.432085, y: 31.033585}
+  - {x: -17.949759, y: 10.5344715}
